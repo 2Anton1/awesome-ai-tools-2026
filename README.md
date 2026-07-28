@@ -38,6 +38,8 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 |------|-------|----------|--------|
 | [Midjourney](https://midjourney.com) | From $10/mo | Best quality AI art | ★★★★★ |
 | [DALL-E 3](https://openai.com/dall-e) | ChatGPT Plus | Image generation | ★★★★☆ |
+| [GPT Image 2](https://gptimage2.asia/) | Free trial / credits | Image generation and editing | ★★★★☆ |
+
 | [Stable Diffusion](https://stability.ai) | Free (open source) | Customizable AI art | ★★★★☆ |
 | [Canva AI](https://canva.com) | Free / $13/mo | AI graphic design | ★★★★★ |
 | [Figma AI](https://figma.com) | Free / $15/mo | AI UI design | ★★★★☆ |
