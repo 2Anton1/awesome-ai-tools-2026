@@ -20,6 +20,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [Copy.ai](https://copy.ai) | Free / $36/mo | Marketing copy | ★★★★☆ |
 | [Grammarly](https://grammarly.com) | Free / $12/mo | Grammar & style | ★★★★★ |
 | [Notion AI](https://notion.so) | $10/mo + $10 AI | In-doc AI writing | ★★★★☆ |
+| [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) | Free | Prompt-based story drafts; no sign-up | ★★★★☆ |
 
 ## Code & Development
 
