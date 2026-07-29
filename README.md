@@ -16,6 +16,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 |------|-------|----------|--------|
 | [ChatGPT](https://chat.openai.com) | Free / $20/mo | General writing, brainstorming | ★★★★★ |
 | [Claude](https://claude.ai) | Free / $20/mo | Long-form writing, analysis | ★★★★★ |
+| [GPTGeminiGrok.AI](https://trygrokai.asia) | Free (10 requests/day) | Chat with GPT, Gemini, and Grok models | ★★★★☆ |
 | [Jasper](https://jasper.ai) | From $39/mo | Marketing copy | ★★★★☆ |
 | [Copy.ai](https://copy.ai) | Free / $36/mo | Marketing copy | ★★★★☆ |
 | [Grammarly](https://grammarly.com) | Free / $12/mo | Grammar & style | ★★★★★ |
