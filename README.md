@@ -88,6 +88,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [Hugging Face](https://huggingface.co) | Free / $9/mo | Model hub | ★★★★★ |
 | [Pinecone](https://pinecone.io) | Free / $70/mo | Vector database | ★★★★★ |
 | [Replicate](https://replicate.com) | Pay per use | Run AI models in cloud | ★★★★★ |
+| [Oracle Bridge](https://tools.gracestack.se/oracle-bridge-landing.html) | Free / $5/mo | Cognitive AI API (HDC + Active Inference) | ★★★★☆ |
 
 ## 🎁 Free AI Products
 
