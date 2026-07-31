@@ -19,6 +19,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [Jasper](https://jasper.ai) | From $39/mo | Marketing copy | ★★★★☆ |
 | [Copy.ai](https://copy.ai) | Free / $36/mo | Marketing copy | ★★★★☆ |
 | [Grammarly](https://grammarly.com) | Free / $12/mo | Grammar & style | ★★★★★ |
+| [Humanize-Text](https://github.com/lynote-ai/humanize-text) | Open source / API costs | Multi-stage text rewriting | — |
 | [Notion AI](https://notion.so) | $10/mo + $10 AI | In-doc AI writing | ★★★★☆ |
 
 ## Code & Development
