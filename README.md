@@ -49,6 +49,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | Tool | Price | Best For | Rating |
 |------|-------|----------|--------|
 | [Runway ML](https://runwayml.com) | Free / $15/mo | AI video generation | ★★★★☆ |
+| [videos.social](https://videos.social/?utm_source=2anton1-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=listing-wave-d) | 1 free render / packs from $10 | Editable faceless video from text | — |
 | [Pika Labs](https://pika.art) | Free / $10/mo | Text to video | ★★★★☆ |
 | [Descript](https://descript.com) | Free / $24/mo | AI podcast editing | ★★★★★ |
 | [ElevenLabs](https://elevenlabs.io) | Free / $5/mo | AI voice generation | ★★★★★ |
