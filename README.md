@@ -31,6 +31,9 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [Bolt.new](https://bolt.new) | Free / $20/mo | Full-stack app generation | ★★★★☆ |
 | [Phind](https://phind.com) | Free / $10/mo | Developer Q&A | ★★★★☆ |
 | [Perplexity](https://perplexity.ai) | Free / $20/mo | AI search engine | ★★★★★ |
+| [Agent QA](https://github.com/vostride/agent-qa) | Free install (FSL source-available)* | Natural-language web and mobile QA | Not rated |
+
+\* Configured model, browser, or device providers may charge separately.
 
 ## Design & Creative
 
