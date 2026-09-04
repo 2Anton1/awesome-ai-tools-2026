@@ -85,6 +85,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [LangChain](https://langchain.com) | Open source | LLM application framework | ★★★★★ |
 | [CrewAI](https://crewai.com) | Free / $27/mo | Multi-agent orchestration | ★★★★☆ |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open source | Autonomous AI agents | ★★★☆☆ |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open source | Local-first desktop AI workforce | ★★★★☆ |
 | [Hugging Face](https://huggingface.co) | Free / $9/mo | Model hub | ★★★★★ |
 | [Pinecone](https://pinecone.io) | Free / $70/mo | Vector database | ★★★★★ |
 | [Replicate](https://replicate.com) | Pay per use | Run AI models in cloud | ★★★★★ |
