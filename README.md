@@ -55,6 +55,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [Suno](https://suno.com) | Free / $10/mo | AI music generation | ★★★★☆ |
 | [Opus Clip](https://opus.pro) | Free / $19/mo | Long video to shorts | ★★★★★ |
 | [CapCut](https://capcut.com) | Free / $8/mo | AI video editing | ★★★★★ |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Free from source; optional paid APIs | Local-first CLI/MCP video editing with plan.json | Not rated |
 
 ## Productivity & Automation
 
