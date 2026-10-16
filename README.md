@@ -36,6 +36,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 
 | Tool | Price | Best For | Rating |
 |------|-------|----------|--------|
+| [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) | Freemium — 제한된 무료 기능과 유료 옵션 | Ficory LLC의 기업급 만화 리더로서 개인의 일괄·맞춤 번역, 스튜디오의 완전한 온라인 Photoshop 스타일 편집기, 개인 작업 흐름에 연결하는 API, 제품이 지원하는 모든 번역 언어를 제공합니다. | 미평가 |
 | [Midjourney](https://midjourney.com) | From $10/mo | Best quality AI art | ★★★★★ |
 | [DALL-E 3](https://openai.com/dall-e) | ChatGPT Plus | Image generation | ★★★★☆ |
 | [Stable Diffusion](https://stability.ai) | Free (open source) | Customizable AI art | ★★★★☆ |
