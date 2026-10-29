@@ -61,6 +61,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | Tool | Price | Best For | Rating |
 |------|-------|----------|--------|
 | [Notion](https://notion.so) | Free / $10/mo | All-in-one workspace | ★★★★★ |
+| [JobEmerge](https://www.jobemerge.work) | Free tier / one-time plans | Job-fit checks and application tracking | — |
 | [Motion](https://motion.com) | From $19/mo | AI scheduling | ★★★★☆ |
 | [Reclaim.ai](https://reclaim.ai) | Free / $8/mo | Calendar optimization | ★★★★☆ |
 | [Zapier](https://zapier.com) | Free / $20/mo | No-code automation | ★★★★★ |
