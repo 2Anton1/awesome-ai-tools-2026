@@ -48,6 +48,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 
 | Tool | Price | Best For | Rating |
 |------|-------|----------|--------|
+| [ReelAI](https://tryreelai.com/) | Paid | Photo-to-video preset effects | Not rated |
 | [Runway ML](https://runwayml.com) | Free / $15/mo | AI video generation | ★★★★☆ |
 | [Pika Labs](https://pika.art) | Free / $10/mo | Text to video | ★★★★☆ |
 | [Descript](https://descript.com) | Free / $24/mo | AI podcast editing | ★★★★★ |
