@@ -55,6 +55,8 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 | [Suno](https://suno.com) | Free / $10/mo | AI music generation | ★★★★☆ |
 | [Opus Clip](https://opus.pro) | Free / $19/mo | Long video to shorts | ★★★★★ |
 | [CapCut](https://capcut.com) | Free / $8/mo | AI video editing | ★★★★★ |
+| [Cyanvid](https://cyanvid.com/?utm_source=2anton1-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks) | Freemium | Text/image to video | — |
+| [Barz Studio](https://barzvideo.com/?utm_source=2anton1-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks) | Free | Rap lyric videos | — |
 
 ## Productivity & Automation
 
