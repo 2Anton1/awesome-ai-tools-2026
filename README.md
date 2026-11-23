@@ -60,6 +60,7 @@ Download the complete catalog with prices, ratings, and best-use cases for each 
 
 | Tool | Price | Best For | Rating |
 |------|-------|----------|--------|
+| [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Free | Timed ChatGPT continuation, per-tab controls, and long-chat context handoff | Not rated |
 | [Notion](https://notion.so) | Free / $10/mo | All-in-one workspace | ★★★★★ |
 | [Motion](https://motion.com) | From $19/mo | AI scheduling | ★★★★☆ |
 | [Reclaim.ai](https://reclaim.ai) | Free / $8/mo | Calendar optimization | ★★★★☆ |
